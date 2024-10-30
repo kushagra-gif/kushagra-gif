@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML , CSS , JAVA SCRIPT**
 
-- 📫 How to reach me **kushagrabansal@gmail.com**
+- 📫 How to reach me **kushagrabansal94@gmail.com**
 
 - 📄 Know about my experiences [project lab india](project lab india)
 
