@@ -1,4 +1,4 @@
-!{logo}(https://github.com/kushagra-gif/kushagra-gif/blob/main/banner%20for%20github.png)
+ !{logo}(https://github.com/kushagra-gif/kushagra-gif/blob/main/banner%20for%20github.png)
 <h1 align="center">Hi 👋, I'm kushagra bansal</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushagra-gif&show_icons=true&locale=en" alt="kushagra-gif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra-gif&" alt="kushagra-gif" /></p>
+!{logo}(https://github.com/kushagra-gif/kushagra-gif/blob/main/banner%20for%20github.png)
