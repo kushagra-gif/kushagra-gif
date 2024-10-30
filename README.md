@@ -1,5 +1,5 @@
  
- !{logo}(https://github.com/kushagra-gif/kushagra-gif/blob/main/banner%20for%20github.png)
+!{logo}(https://github.com/kushagra-gif/kushagra-gif/blob/main/banner%20for%20github.png)
 <h1 align="center">Hi 👋, I'm kushagra bansal</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
