@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm kushagra bansal</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra-gif&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra-gif" /> </p>
+<p align="left">
+ <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" alt="kushagra-gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagra-gif" alt="kushagra-gif" /></a> </p>
 
